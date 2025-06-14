@@ -1,0 +1,71 @@
+{
+  "format": "skillmap",
+  "id": "white-belt",
+  "title": "White Belt Skill Map",
+  "description": "Beginner coding skill map for Code Ninjas White Belt students.",
+  "activities": [
+    {
+      "id": "level1",
+      "type": "tutorial",
+      "name": "Your First Sprite",
+      "description": "Create a sprite, set its position, and make it say something.",
+      "url": "tutorials/level1-your-first-sprite/tutorial.md",
+      "tags": ["sequence", "sprites"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/character.png"
+    },
+    {
+      "id": "level2",
+      "type": "tutorial",
+      "name": "Fly Me to the Moon",
+      "description": "Move a sprite using arrow keys and prevent it from going off-screen.",
+      "url": "tutorials/level2-fly-me-to-the-moon/tutorial.md",
+      "tags": ["events", "movement"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/space.png"
+    },
+    {
+      "id": "level3",
+      "type": "tutorial",
+      "name": "A Piece of Cake",
+      "description": "Trigger events when sprites overlap.",
+      "url": "tutorials/level3-piece-of-cake/tutorial.md",
+      "tags": ["functions", "events"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/cake.png"
+    },
+    {
+      "id": "level4",
+      "type": "tutorial",
+      "name": "Underwater Food Chain",
+      "description": "Use sprite kinds and parameters to build a simple game.",
+      "url": "tutorials/level4-underwater-food-chain/tutorial.md",
+      "tags": ["kinds", "parameters"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/fish.png"
+    },
+    {
+      "id": "level5",
+      "type": "tutorial",
+      "name": "Mushroom and the Monkey",
+      "description": "Use life and countdown variables in a game.",
+      "url": "tutorials/level5-mushroom-monkey/tutorial.md",
+      "tags": ["variables"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/monkey.png"
+    },
+    {
+      "id": "level6",
+      "type": "tutorial",
+      "name": "Avoid the Asteroids",
+      "description": "Use loops and randomness to create gameplay.",
+      "url": "tutorials/level6-avoid-the-asteroids/tutorial.md",
+      "tags": ["loops", "random"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/asteroid.png"
+    },
+    {
+      "id": "level7",
+      "type": "tutorial",
+      "name": "Unlock the Hidden Treasure",
+      "description": "Use conditionals to decide outcomes in the game.",
+      "url": "tutorials/level7-unlock-treasure/tutorial.md",
+      "tags": ["conditionals"],
+      "imageUrl": "https://arcade.makecode.com/skillmap/img/treasure.png"
+    }
+  ]
+}
