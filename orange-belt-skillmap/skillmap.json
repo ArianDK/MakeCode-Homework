@@ -1,0 +1,88 @@
+{
+  "format": "skillmap",
+  "id": "orange-belt",
+  "title": "Orange Belt Skill Map",
+  "description": "Learn JavaScript with Code Ninjas! Practice with variables, conditionals, functions, and game events.",
+  "activities": [
+    {
+      "id": "lesson1",
+      "type": "tutorial",
+      "name": "Intro to JavaScript",
+      "description": "Print messages using console.log() and add comments.",
+      "url": "tutorials/lesson1-intro-js/tutorial.md",
+      "tags": ["syntax", "console"]
+    },
+    {
+      "id": "lesson2",
+      "type": "tutorial",
+      "name": "Variables & Data Types",
+      "description": "Learn let, const, and data types in JavaScript.",
+      "url": "tutorials/lesson2-variables/tutorial.md",
+      "tags": ["variables", "data"]
+    },
+    {
+      "id": "lesson3",
+      "type": "tutorial",
+      "name": "Operators & Expressions",
+      "description": "Use arithmetic and comparison operators.",
+      "url": "tutorials/lesson3-operators/tutorial.md",
+      "tags": ["operators", "math"]
+    },
+    {
+      "id": "lesson4",
+      "type": "tutorial",
+      "name": "Conditionals",
+      "description": "Make decisions in code using if/else.",
+      "url": "tutorials/lesson4-conditionals/tutorial.md",
+      "tags": ["conditionals", "logic"]
+    },
+    {
+      "id": "lesson5",
+      "type": "tutorial",
+      "name": "Loops",
+      "description": "Repeat code using for and while loops.",
+      "url": "tutorials/lesson5-loops/tutorial.md",
+      "tags": ["loops", "iteration"]
+    },
+    {
+      "id": "lesson6",
+      "type": "tutorial",
+      "name": "Arrays",
+      "description": "Store multiple values using arrays.",
+      "url": "tutorials/lesson6-arrays/tutorial.md",
+      "tags": ["arrays"]
+    },
+    {
+      "id": "lesson7",
+      "type": "tutorial",
+      "name": "Functions",
+      "description": "Write reusable code with functions.",
+      "url": "tutorials/lesson7-functions/tutorial.md",
+      "tags": ["functions"]
+    },
+    {
+      "id": "lesson8",
+      "type": "tutorial",
+      "name": "Tilemaps & Sprites",
+      "description": "Use tilemaps and sprite movement in games.",
+      "url": "tutorials/lesson8-tilemaps-sprites/tutorial.md",
+      "tags": ["tilemap", "sprites"]
+    },
+    {
+      "id": "lesson9",
+      "type": "tutorial",
+      "name": "Event Handling",
+      "description": "Use keyboard input and onUpdate.",
+      "url": "tutorials/lesson9-event-handling/tutorial.md",
+      "tags": ["events", "input"]
+    },
+    {
+      "id": "lesson10",
+      "type": "tutorial",
+      "name": "Final Project",
+      "description": "Build a mini adventure game using everything you've learned.",
+      "url": "tutorials/lesson10-final-project/tutorial.md",
+      "tags": ["project", "review"]
+    }
+  ]
+}
